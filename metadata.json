@@ -1,0 +1,6 @@
+{
+  "name": "PythagorasLab",
+  "description": "Visualisasi & Pembuktian Teorema Pythagoras - Aplikasi Pembelajaran Matematika Interaktif SMP/SMA",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
